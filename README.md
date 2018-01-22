@@ -1,6 +1,11 @@
 15 minute getting started:
 http://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry/introduction
 
+https://login.run.pivotal.io/login
+
+accessing apps with SSH:
+http://docs.cloudfoundry.org/devguide/deploy-apps/ssh-apps.html
+
 #get help from cloud foundry
 cf help
 
